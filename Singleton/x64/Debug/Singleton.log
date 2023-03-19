@@ -1,0 +1,26 @@
+﻿  Singleton.cpp
+  多例扩展.cpp
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 1 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 2 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 3 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 4 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 5 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 1 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 2 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 3 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 4 冲突
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“Singleton *”
+D:\Code\gitCode\DesignPatterns\Singleton\多例扩展.cpp(53,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Singleton *" 的参数 5 冲突
+  缓存与单例.cpp
+  正在生成代码...
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 WinMain，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\Code\gitCode\DesignPatterns\x64\Debug\Singleton.exe : fatal error LNK1120: 1 个无法解析的外部命令
